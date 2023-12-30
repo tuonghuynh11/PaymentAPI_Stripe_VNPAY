@@ -14,4 +14,3 @@
 - Choose NCB bank for test
 - Type card info follow [here](https://sandbox.vnpayment.vn/apis/vnpay-demo/) for testing sandbox.
 
-### Author: lambiengcode
