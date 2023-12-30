@@ -6,10 +6,13 @@ html
     link(rel='stylesheet', href='/stylesheets/bootstrap.min.css')
   body
     div.container
+      div.footer
+        img(src='https://downloadlogomienphi.com/sites/default/files/logos/download-logo-vector-vnpay-2021-doc-mien-phi.jpg', alt='Image Description')
       div.header.clearfix
+
         ul.nav.nav-pills.pull-right
           li(role="presentation").active
-        h3.text-muted Van Transport
+        //- h3.text-muted Van Transport
       block content
       footer.footer
         p &copy; VNPAY #{new Date().getFullYear()}

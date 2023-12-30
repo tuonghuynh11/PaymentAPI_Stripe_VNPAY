@@ -1,6 +1,6 @@
 {
-  "vnp_TmnCode":"1SNJ89L8",
-  "vnp_HashSecret":"ODJLXOCEWMFIEJXHJNMZUVFFVRDDXLOT",
-  "vnp_Url":"http://sandbox.vnpayment.vn/paymentv2/vpcpay.html",
-  "vnp_ReturnUrl": "http://localhost:3000/payment/vnpay_return"
+  "vnp_TmnCode": "NAA4M9R9",
+  "vnp_HashSecret": "DPPJURTAZYQXDVFDHIRADWLJTFZMULSJ",
+  "vnp_Url": "http://sandbox.vnpayment.vn/paymentv2/vpcpay.html",
+  "vnp_ReturnUrl": "http://192.168.1.12:5000/payment/vnpay_return"
 }
